@@ -1,11 +1,5 @@
 .cards {
-  font-size: 24px;
-  line-height: 1.2;
-  weight: 900px;
   margin-top: 30px;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-  overflow: hidden;
 }
 
 .card__list {
@@ -19,13 +13,24 @@
 .card {
   display: flex;
   flex-direction: column;
-  border-radius: 10%;
+  border-radius: 10px;
   list-style-type: none;
+  overflow: hidden;
 }
 
 .card__image {
   width: 282px;
   height: 282px;
+}
+
+.card__title {
+  font-size: 24px;
+  line-height: 1.2;
+  font-weight: 900;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  max-width: 219px;
 }
 
 .card__description {
