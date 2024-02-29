@@ -1,3 +1,30 @@
 .header {
   margin-top: 45px;
 }
+
+.header__image {
+  width: 173px;
+  height: 33px;
+}
+
+@media screen and (max-width: 321px) {
+  .header {
+    margin: 0;
+  }
+
+  .header__image {
+    width: 126px;
+    height: 24px;
+    padding: 28px 0 0 27px;
+  }
+}
+
+@media screen and (max-width: 776px) {
+  .header {
+    margin: 0;
+  }
+
+  .header__image {
+    padding: 28px 0 0 27px;
+  }
+}
