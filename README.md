@@ -16,4 +16,6 @@ https://drive.google.com/file/d/16ix3ZxmdrDAt19FWdCzdSiBKW6TtrtU6/view?usp=shari
 
 - [Link to the project on Figma](https://www.figma.com/file/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=0%3A1)
 
-**Images**
+Here's also where you can find my project on GitHub pages!
+
+https://lily785.github.io/se_project_aroundtheus/
