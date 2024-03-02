@@ -42,11 +42,3 @@
   opacity: 50%;
   cursor: pointer;
 }
-
-@media screen and (max-width: 776px) {
-  .card__list {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-}

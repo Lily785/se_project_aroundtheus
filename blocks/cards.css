@@ -10,3 +10,11 @@
   padding: 0;
   margin: 0;
 }
+
+@media screen and (max-width: 776px) {
+  .cards__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
